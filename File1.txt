@@ -1,1 +1,1 @@
-This is the text in the first file
+This is the text in the first file - with some additions
